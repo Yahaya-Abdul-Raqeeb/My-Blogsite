@@ -1,0 +1,84 @@
+[
+{
+    "id":1,
+    "image": "1.png",
+    "slug": "post-number-one",
+    "title":"Music",
+    "extract":"An arrangement of sounds having melody, rhythm, and usually harmony classical music.",
+    "body":"" 
+},
+
+{
+    "id":2,
+    "image": "2.png",
+    "slug": "post-number-one",
+    "title":"Video Games",
+    "extract":"In October 1958, Physicist William Higinbotham created what is thought to be the first video game. It was a very simple tennis game, similar to the classic 1970s video game Pong, and it was quite a hit at a Brookhaven National Laboratory open house.",
+    "body":"" 
+},
+{
+    "id":3,
+    "image": "3.png",
+    "slug": "post-number-one",
+    "title":"Motivation",
+    "extract":"Motivation is the word derived from the word 'motive' which means needs, desires, wants or drives within the individuals. It is the process of stimulating people to actions to accomplish the goals.",
+    "body":"" 
+},
+{
+    "id":4,
+    "image": "4.png",
+    "slug": "post-number-one",
+    "title":"Transportation",
+    "extract":"the action of transporting someone or something or the process of being transported.",
+    "body":"" 
+},
+{
+    "id":5,
+    "image": "5.png",
+    "slug": "post-number-one",
+    "title":"Computers",
+    "extract":"an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+    "body":"" 
+},
+{
+    "id":6,
+    "image": "6.png",
+    "slug": "post-number-one",
+    "title":"Technology",
+    "extract":"the application of scientific knowledge for practical purposes, especially in industry.",
+    "body":"" 
+},
+{
+    "id":7,
+    "image": "7.png",
+    "slug": "post-number-one",
+    "title":"Electric Gardgets",
+    "extract":"Other examples of electronic gadgets include e-book readers, smartwatches, digital fitness trackers, GPS devices and video game machines. Some people also include monitors, laptops and desktop computers when discussing the advantages and disadvantages of gadgets.",
+    "body":"" 
+},
+{
+    "id":8,
+    "image": "8.png",
+    "slug": "post-number-one",
+    "title":"Science",
+    "extract":"The intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment.",
+    "body":"" 
+},
+{
+    "id":9,
+    "image": "9.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"AN ACT to impose a special levy to be known as the Financial Sector Recovery Levy on banks to raise revenue to support the financial sector reforms and to provide for related matters.",
+    "body":"" 
+},
+{
+    "id":10,
+    "image": "10.png",
+    "slug": "post-number-one",
+    "title":"Education",
+    "extract":"The process of receiving or giving systematic instruction, especially at a school or university.",
+    "body":"" 
+}
+
+]
