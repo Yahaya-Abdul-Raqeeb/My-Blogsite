@@ -6,17 +6,32 @@ function Home() {
  <div>
    <h1>Welcome To My HomePage</h1> 
     <div>
-    <p>On 28 August, Chelsea travelled to Anfield to take on Liverpool in a match that was billed as an early test for two title contenders.[10] Kai Havertz opened the scoring off a corner kick with a looping near-post header that spiraled over goalkeeper Alisson.[11] In the first half stoppage time, Reece James was sent off after referee Anthony Taylor consulted the VAR and adjudged that James had used his arm to prevent a goal. Mohammed Salah scored the ensuing penalty despite furious protests from Chelsea players. In the second half, Chelsea defended deeply and compactly and the match finished 1–1.[12]
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
 
-    </p>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
 
-    <p>On 28 August, Chelsea travelled to Anfield to take on Liverpool in a match that was billed as an early test for two title contenders.[10] Kai Havertz opened the scoring off a corner kick with a looping near-post header that spiraled over goalkeeper Alisson.[11] In the first half stoppage time, Reece James was sent off after referee Anthony Taylor consulted the VAR and adjudged that James had used his arm to prevent a goal. Mohammed Salah scored the ensuing penalty despite furious protests from Chelsea players. In the second half, Chelsea defended deeply and compactly and the match finished 1–1.[12]
-
-    </p>
-
-    <p>On 28 August, Chelsea travelled to Anfield to take on Liverpool in a match that was billed as an early test for two title contenders.[10] Kai Havertz opened the scoring off a corner kick with a looping near-post header that spiraled over goalkeeper Alisson.[11] In the first half stoppage time, Reece James was sent off after referee Anthony Taylor consulted the VAR and adjudged that James had used his arm to prevent a goal. Mohammed Salah scored the ensuing penalty despite furious protests from Chelsea players. In the second half, Chelsea defended deeply and compactly and the match finished 1–1.[12]
-
-    </p>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
     
     
     
